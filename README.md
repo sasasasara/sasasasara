@@ -60,4 +60,4 @@
 </div>
 
 ---
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasasasara&show_icons=true&theme=github_dark&exclude_repo=dotfiles&layout=compact" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasasasara&show_icons=true&theme=github_dark&exclude_repo=dotfiles&layout=compact" />
