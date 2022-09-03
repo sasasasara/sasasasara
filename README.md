@@ -25,7 +25,7 @@
 ---
 ### 👩‍💻 About me:
 
-- 🏳️‍⚧️ My pronouns are __She | Her__.
+- 🏳️‍⚧️ My pronouns are __They | Them__.
 
 - 🇧🇷 My arterial language is Brazilian Portuguese.
 
@@ -35,7 +35,6 @@
 
 - 📫 Reach me:
     - sara_dahlke@estudante.sesisenai.org.br
-    - saradahlke@duck.com
 
 ---
 ### 🧰 Languages and Tools I'm interested in:
